@@ -1,0 +1,103 @@
+.dialog-pane {
+    -fx-background-color: rgb(84, 154, 185);
+}
+
+.dialog-pane .label {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Rounded MT Bold";
+    -fx-font-size: 12;
+    -fx-font-smoothing-type: gray;
+}
+
+.dialog-pane:header .header-panel {
+    -fx-background-color: rgb(84, 154, 185);
+    -fx-font-smoothing-type: gray;
+}
+
+.dialog-pane:header .header-panel .label {
+    -fx-font-style: italic;
+    -fx-font-size: 20;
+    -fx-font-family: "Arial Rounded MT Bold", Times, serif;
+    -fx-font-smoothing-type: gray;
+}
+
+.button {
+
+-fx-font-family: "Arial Rounded MT Bold";
+-fx-text-fill: white;
+-fx-background-color: rgb(84, 154, 185);
+-fx-font-size: 18;
+-fx-font-smoothing-type: gray;
+
+}
+
+.instructionsButton {
+
+-fx-font-family: "Arial Rounded MT Bold";
+-fx-text-fill: white;
+-fx-background-color: rgb(84, 154, 185);
+-fx-font-size: 14.5;
+-fx-font-smoothing-type: gray;
+
+}
+
+.instructionsButtons{
+
+-fx-font-family: "Arial Rounded MT Bold";
+-fx-text-fill: white;
+-fx-background-color: rgb(84, 154, 185);
+-fx-font-size: 14.5;
+-fx-font-smoothing-type: gray;
+}
+
+.instructionsButtons:header .header-panel .label{
+-fx-font-size: 30;
+}
+
+
+.buttons {
+
+-fx-font-family: "Arial Rounded MT Bold";
+-fx-text-fill: white;
+-fx-background-color: rgb(84, 154, 185);
+-fx-font-size: 21;
+-fx-font-smoothing-type: gray;
+
+}
+
+.label {
+
+-fx-font-family: "Arial Rounded MT Bold";
+-fx-text-fill: white;
+-fx-background-color: rgb(84, 154, 185);
+-fx-font-size: 50;
+-fx-font-smoothing-type: gray;
+
+}
+
+.watermark {
+
+-fx-text-fill: rgb(56, 98, 119);
+-fx-font-family: "Arial";
+-fx-font-size: 10;
+}
+
+.difficulty {
+
+-fx-text-fill: rgb(56, 98, 119);
+-fx-font-family: "Arial";
+-fx-font-size: 25;
+-fx-alignment: center;
+-fx-text-alignment: center;
+
+}
+
+.myProgress {
+
+-fx-progress-color: white;
+}
+
+
+
+
+
